@@ -1,0 +1,81 @@
+﻿/* Standard Theme */
+.timelineContainer
+{
+	height: 140px;
+	border: 1px solid #aaa;
+}
+.desc
+{
+	text-align:right;
+	min-width: 100px;
+}
+.error
+
+{
+	color: Red;
+}
+
+/* Silver Theme */
+.silver-theme 
+{	
+	color: silver; 
+	height: 250px;
+	width: 100%;
+	border: 1px solid #aaa;
+	font-family:Tahoma;
+	font-size:10pt;
+	font-weight:400;
+}
+.silver-theme .timeline-band-0 .timeline-ether-bg 
+{
+	background-color:#E2E0FE;
+}
+.silver-theme .timeline-band-1 .timeline-ether-bg 
+{
+	background-color:#D0D0D0;
+}
+.silver-theme .t-hightlight1
+{
+	background-color:#95FFFF;
+}
+.silver-theme .p-hightlight1
+{
+	background-color:#CEFFFF
+}
+.silver-theme .timeline-highlight-label-start .label_t-highlight1
+{
+	color: #95FFFF; 
+}
+.silver-theme .timeline-highlight-label-end .label_t-highlight1 
+{
+	color: #95FFFF; 
+}
+.silver-theme .timeline-band-events .important
+{
+	color: silver;
+}
+.silver-theme .timeline-band-events .small-important 
+{
+	background: silver; 
+}
+.silver-theme .timeline-date-label-em 
+{ 
+	color: #fff; 
+}
+.silver-theme .timeline-ether-lines 
+{
+	border-color: #777; border-style: solid;
+}
+.silver-theme .timeline-ether-highlight
+{
+	background: #CEFFFF;
+}
+.silver-theme .timeline-event-tape,
+.silver-theme .timeline-small-event-tape
+{
+	background: #79FFFF;
+}
+.silver-theme .timeline-ether-weekends
+{
+	background: #9B9B9B;
+}
